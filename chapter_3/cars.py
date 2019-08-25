@@ -1,4 +1,4 @@
-cars = ['bmw','audi','toyota','subaru']
+cars = ['bmw', 'audi', 'toyota', 'subaru']
 # cars.sort(reverse=True)
 print("Here is the original list:")
 print(cars)
