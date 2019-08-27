@@ -1,3 +1,5 @@
+# My project way in Python, Django, React
+
 project_ideas = ['euro million statistics',
                  'crawling amazon for best price',
                  'asian adult site',
